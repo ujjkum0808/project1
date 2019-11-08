@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "393707261115",
+    "firebase_url": "https://bcetproject.firebaseio.com",
+    "project_id": "bcetproject",
+    "storage_bucket": "bcetproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393707261115:android:fab02dde5ef8e6b1",
+        "android_client_info": {
+          "package_name": "com.example.collegeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393707261115-5bmfkc7m8aefl76iv6u71k3qf8v1b8ff.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.collegeapp",
+            "certificate_hash": "49f098695c594c25fcf36fc7bbab73f2b530fb90"
+          }
+        },
+        {
+          "client_id": "393707261115-opcil953ig77sj8kgubb24h0fajm9pae.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5G1zUfHoDbMnPLf4BnPEfLbDOgxtJFlE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393707261115-opcil953ig77sj8kgubb24h0fajm9pae.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/item_aboutbcet" android:title="About Bcet"/>
+    <item android:id="@+id/item_aboutsksgi" android:title="About Sksgi"/>
+    <item android:id="@+id/item_aboutcampusdgr" android:title="Campus Durgapur"/>
+    <item android:id="@+id/item_aboutmessages" android:title="Messages"/>
+</menu>

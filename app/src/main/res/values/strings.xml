@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Bcet</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_tools">Tools</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_send">Send</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="description_txt">In Our quest for excellence in education, "OUTSTANDING ENGINEERING INSTITUTE (EAST) conferred on BCET by ABP NEWS National B-School Awards at Taj Lands End, Mumbai on 30th June 2012.</string>
+    <string name="dec_txt">It is a matter of pride that BCET was again conferred ABP News Natonal B-School Award at Taj Lands End, Mumbai on 29th June 2013, in the presence of admired delegates and respected dignatories.</string>
+    <string name="dec1_txt">NASSCOM facilitate Toppers (among the girls students) of BCET on 24th Feb 2016 which was coordinated by central Training and Placement Department, SKSgi-Durgapur.</string>
+    <string name="dec2_txt">Bengal College of Engineering and Technology awarded "OUTSTANDING ENGINEERING INSTITUTE (EAST)" -2014 by CEO of ABP Group along with IIT Roorkee and NIT Rourkela.</string>
+
+    <string name="dec3_txt">Bengal College of Engineering and Technology, Durgapur was set up under the aegis of SKS Educational
+            and Social Trust in 2001. The college offers a multitude of under graduate and post graduate degree courses in different
+            branches of engineering and management. Proximity of regions premier educational and research institutes like National
+            Institute of Technology, Durgapur; Central Mechanical Engineering Research Institute, Durgapur;,
+            Indian Institute of Technology, Kharagpur; Indian Statistical Institute, Kolkata; Jadavpur University, Kolkata;
+            Indian Institute of Engineering Science and Technology, Howrah; have resulted in vast pool of intellectual capital.
+            Today, its infrastructure includes airy classrooms, well-equipped laboratories, safe and secure hostels for boys and girls,
+            Multigym, Greenfield playgrounds to name a few. Many high profile Ministers, dignitaries and Academicians of national
+            repute have visited and praised the college campus and its infrastructure.Bengal College of Engineering and Technology
+            was the National Champions in the years 2008, 2009 and 2010, Runners up in the years 2011, 2012 and 2013 and again
+            Regional Champions in the years 2014 and 2015 in the National Entrepreneurship Network (NEN). In 2016 the college
+            received the award for Honour Role. These awards ensure a special recognition for the entire Durgapur region in the
+            entrepreneurial map of the nation.</string>
+    <string name="about_txt">Bengal College of Engineering and Technology, Durgapur was set up under the aegis of SKS Educational
+        and Social Trust in 2001. The college offers a multitude of under graduate and post graduate degree courses in different
+        branches of engineering and management. Proximity of regions premier educational and research institutes like National
+        Institute of Technology, Durgapur; Central Mechanical Engineering Research Institute, Durgapur;, Indian Institute of
+        Technology, Kharagpur; Indian Statistical Institute, Kolkata; Jadavpur University, Kolkata; Indian Institute of Engineering
+        Science and Technology, Howrah; have resulted in vast pool of intellectual capital. Today, its infrastructure includes
+        airy classrooms, well-equipped laboratories, safe and secure hostels for boys and girls, Multigym, Greenfield playgrounds
+        to name a few. Many high profile Ministers, dignitaries and Academicians of national repute have visited and praised the
+        college campus and its infrastructure.</string>
+
+
+</resources>

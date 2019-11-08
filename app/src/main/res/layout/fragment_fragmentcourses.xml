@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Fragmentcourses">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <ExpandableListView
+            android:id="@+id/expandlistview"
+            android:layout_width="match_parent"
+            android:layout_height="fill_parent"
+            android:divider="#000000"
+            android:childDivider="@android:color/darker_gray"
+            android:dividerHeight="1dp">
+
+
+        </ExpandableListView>
+    </RelativeLayout>
+
+</FrameLayout>
